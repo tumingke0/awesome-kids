@@ -113,6 +113,7 @@ Start here if you only want a short list.
 - [Google Family Link](https://families.google/familylink/) - Parent controls for compatible Android and Chromebook devices, including app approvals, time limits, web controls, account settings, and location.
 - [Apple Screen Time](https://support.apple.com/en-us/105121) - Built-in parental controls for iPhone, iPad, and Mac, including app limits, content restrictions, communication safety, purchases, and web content settings.
 - [Microsoft Family Safety](https://www.microsoft.com/en-us/microsoft-365/family-safety) - Family tools for Windows, Xbox, Microsoft Edge, screen time, activity reporting, and location.
+- [Ripple](https://ripplefocus.github.io/en/parental-control/) - Free app blocker for Android and iOS 16+ that a parent can lock with an 8-digit unlock code. On iPhone it uses Apple's Screen Time framework to stop the app from being deleted and to keep scheduled blocks running in the background. On Android it resists uninstalling, ignores changes to the system clock, and can block only WeChat Channels and Moments or YouTube Shorts while chat keeps working. No ads or account. The iOS build is installed as an IPA, not from the App Store.
 - [YouTube Kids](https://www.youtubekids.com/) - Safer than open YouTube, but not a babysitter. Use approved-content mode for younger kids and review watch history.
 
 ## Use With Care
